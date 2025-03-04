@@ -13,8 +13,6 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
 
-    - run: git describe --always
-
     - name: Generate Changelog
       uses: smichard/conventional_changelog@2.0.0
       with:
@@ -27,6 +25,6 @@ jobs:
 
     - name: Commit Changelog
       run: |
-        git add CHANGELOG.semver.md
+        git add CHANGELOG.md
         git commit -m "docs: :robot: changelog file generated" || echo "No changes to commit"
         git push
