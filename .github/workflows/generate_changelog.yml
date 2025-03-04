@@ -13,7 +13,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
     
-    - run: git fetch --prune --unshallow
+    - run: git describe --always
 
     - name: Generate Changelog
       uses: smichard/conventional_changelog@2.0.0
