@@ -5,8 +5,7 @@ metadata:
   description: mi repo para tests y cosas
   annotations:
     backstage.io/techdocs-ref: dir:.
-    changelog-file-ref: "url:https://github.com/ManuFernandez03/repo-tests/blob/main/CHANGELOG.semver.md"
-
+    
 spec:
   type: service
   owner: ManuFernandez03
