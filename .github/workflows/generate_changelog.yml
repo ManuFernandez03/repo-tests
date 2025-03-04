@@ -28,8 +28,3 @@ jobs:
         git add CHANGELOG.md
         git commit -m "docs: :robot: changelog file generated" || echo "No changes to commit"
         git push
-    
-    - name: Get latest tag
-      run: |
-        git fetch -a
-        latest_tag=$(git describe --tags `git rev-list --tags --max-count=1`)
