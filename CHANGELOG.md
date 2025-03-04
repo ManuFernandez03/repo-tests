@@ -6,8 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased changes
 
+### Feature
+- meter el catalogo [`95cf76d`](https://github.com/ManuFernandez03/repo-tests/commit/95cf76d)
+
 ### Bug Fixes
 - meter tags y confiar [`89ac7e7`](https://github.com/ManuFernandez03/repo-tests/commit/89ac7e7)
+
+### Documentation
+- :robot: changelog file generated [`7117399`](https://github.com/ManuFernandez03/repo-tests/commit/7117399)
+
+### Other
+- Merge pull request #8 from ManuFernandez03/create-proyecto-test-1 [`c99b18a`](https://github.com/ManuFernandez03/repo-tests/commit/c99b18a)
 
 ## 1.0.0 (2025-03-04)
 
