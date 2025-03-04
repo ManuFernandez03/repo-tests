@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
+    
+    - run: git fetch --prune --unshallow
 
     - name: Generate Changelog
       uses: smichard/conventional_changelog@2.0.0
