@@ -1,9 +1,6 @@
-name: Generate Changelog
-
+name: generate-changelog
 on:
-  push:
-    branches: [ main ]
-
+  workflow_dispatch:
 jobs:
   changelog:
     runs-on: ubuntu-latest
@@ -12,11 +9,9 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
-    
-    - run: git describe --always
 
     - name: Generate Changelog
-      uses: smichard/conventional_changelog@2.0.0
+      uses: smichard/conventional_changelog@1.0.4
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
