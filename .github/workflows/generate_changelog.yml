@@ -27,6 +27,6 @@ jobs:
 
     - name: Commit Changelog
       run: |
-        git add CHANGELOG.md
+        git add CHANGELOG.semver.md
         git commit -m "docs: :robot: changelog file generated" || echo "No changes to commit"
         git push
