@@ -10,16 +10,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - meter el catalogo [`95cf76d`](https://github.com/ManuFernandez03/repo-tests/commit/95cf76d)
 
 ### Bug Fixes
+- metemos referencia al changelog [`115290e`](https://github.com/ManuFernandez03/repo-tests/commit/115290e)
 - le quito el semver [`4763203`](https://github.com/ManuFernandez03/repo-tests/commit/4763203)
 - no funciona con el semver? [`bb22333`](https://github.com/ManuFernandez03/repo-tests/commit/bb22333)
 - cambiar extension changelog [`cbb25f9`](https://github.com/ManuFernandez03/repo-tests/commit/cbb25f9)
 - meter tags y confiar [`89ac7e7`](https://github.com/ManuFernandez03/repo-tests/commit/89ac7e7)
 
 ### Documentation
+- :robot: changelog file generated [`990ca12`](https://github.com/ManuFernandez03/repo-tests/commit/990ca12)
 - :robot: changelog file generated [`c711e97`](https://github.com/ManuFernandez03/repo-tests/commit/c711e97)
 - :robot: changelog file generated [`7117399`](https://github.com/ManuFernandez03/repo-tests/commit/7117399)
 
 ### Other
+- Merge branch 'main' of https://github.com/ManuFernandez03/repo-tests [`28edd44`](https://github.com/ManuFernandez03/repo-tests/commit/28edd44)
 - Merge pull request #9 from ManuFernandez03/create-proyecto-test-1 [`dd5e19d`](https://github.com/ManuFernandez03/repo-tests/commit/dd5e19d)
 - Merge remote-tracking branch 'origin/main' into create-proyecto-test-1 [`be9eb97`](https://github.com/ManuFernandez03/repo-tests/commit/be9eb97)
 - Merge pull request #8 from ManuFernandez03/create-proyecto-test-1 [`c99b18a`](https://github.com/ManuFernandez03/repo-tests/commit/c99b18a)
