@@ -7,6 +7,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## Unreleased changes
 
 ### Feature
+- primer cambio despues de nueva release [`cd7abbf`](https://github.com/ManuFernandez03/repo-tests/commit/cd7abbf)
+
+### Other
+- Merge branch 'main' of https://github.com/ManuFernandez03/repo-tests [`729650a`](https://github.com/ManuFernandez03/repo-tests/commit/729650a)
+
+## 1.1.0 (2025-03-04)
+
+### Feature
 - meter el catalogo [`95cf76d`](https://github.com/ManuFernandez03/repo-tests/commit/95cf76d)
 
 ### Bug Fixes
@@ -18,6 +26,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - meter tags y confiar [`89ac7e7`](https://github.com/ManuFernandez03/repo-tests/commit/89ac7e7)
 
 ### Documentation
+- :robot: changelog file generated [`21c286d`](https://github.com/ManuFernandez03/repo-tests/commit/21c286d)
 - :robot: changelog file generated [`6f68f27`](https://github.com/ManuFernandez03/repo-tests/commit/6f68f27)
 - :robot: changelog file generated [`990ca12`](https://github.com/ManuFernandez03/repo-tests/commit/990ca12)
 - :robot: changelog file generated [`c711e97`](https://github.com/ManuFernandez03/repo-tests/commit/c711e97)
