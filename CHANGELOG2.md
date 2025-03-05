@@ -6,10 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased changes
 
-### Feature
+### Added
 - meter el catalogo [`95cf76d`](https://github.com/ManuFernandez03/repo-tests/commit/95cf76d)
 
-### Bug Fixes
+### Fixed
 - le quito el semver [`4763203`](https://github.com/ManuFernandez03/repo-tests/commit/4763203)
 - no funciona con el semver? [`bb22333`](https://github.com/ManuFernandez03/repo-tests/commit/bb22333)
 - cambiar extension changelog [`cbb25f9`](https://github.com/ManuFernandez03/repo-tests/commit/cbb25f9)
@@ -26,7 +26,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## 1.0.0 (2025-03-04)
 
-### Feature
+### Added
 - sera esto? [`d72feea`](https://github.com/ManuFernandez03/repo-tests/commit/d72feea)
 - no hace nada? [`d09c421`](https://github.com/ManuFernandez03/repo-tests/commit/d09c421)
 - algo [`5da60ee`](https://github.com/ManuFernandez03/repo-tests/commit/5da60ee)
@@ -34,7 +34,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - allow provided config object to extend other configs [`cae7897`](https://github.com/ManuFernandez03/repo-tests/commit/cae7897)
 - a ver si de esta [`c330618`](https://github.com/ManuFernandez03/repo-tests/commit/c330618)
 
-### Bug Fixes
+### Fixed
 - cambio en el workflow [`e9cd207`](https://github.com/ManuFernandez03/repo-tests/commit/e9cd207)
 
 ### Other
