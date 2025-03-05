@@ -9,7 +9,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Feature
 - primer cambio despues de nueva release [`cd7abbf`](https://github.com/ManuFernandez03/repo-tests/commit/cd7abbf)
 
+### Bug Fixes
+- cambio nombre changelog [`a5437a7`](https://github.com/ManuFernandez03/repo-tests/commit/a5437a7)
+
+### Documentation
+- :robot: changelog file generated [`61504a8`](https://github.com/ManuFernandez03/repo-tests/commit/61504a8)
+
 ### Other
+- Merge branch 'main' of https://github.com/ManuFernandez03/repo-tests [`dcea911`](https://github.com/ManuFernandez03/repo-tests/commit/dcea911)
 - Merge branch 'main' of https://github.com/ManuFernandez03/repo-tests [`729650a`](https://github.com/ManuFernandez03/repo-tests/commit/729650a)
 
 ## 1.1.0 (2025-03-04)
