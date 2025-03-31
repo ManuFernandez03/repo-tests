@@ -10,10 +10,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - primer cambio despues de nueva release [`cd7abbf`](https://github.com/ManuFernandez03/repo-tests/commit/cd7abbf)
 
 ### Bug Fixes
+- cambio nuevo [`f9d5882`](https://github.com/ManuFernandez03/repo-tests/commit/f9d5882)
 - nuevo changelog de prueba [`8dc8ff2`](https://github.com/ManuFernandez03/repo-tests/commit/8dc8ff2)
 - cambio nombre changelog [`a5437a7`](https://github.com/ManuFernandez03/repo-tests/commit/a5437a7)
 
 ### Documentation
+- :robot: changelog file generated [`5b4f63b`](https://github.com/ManuFernandez03/repo-tests/commit/5b4f63b)
 - :robot: changelog file generated [`7222cb0`](https://github.com/ManuFernandez03/repo-tests/commit/7222cb0)
 - :robot: changelog file generated [`f58f769`](https://github.com/ManuFernandez03/repo-tests/commit/f58f769)
 - :robot: changelog file generated [`ee7a0ea`](https://github.com/ManuFernandez03/repo-tests/commit/ee7a0ea)
@@ -21,6 +23,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - :robot: changelog file generated [`61504a8`](https://github.com/ManuFernandez03/repo-tests/commit/61504a8)
 
 ### Other
+- Merge branch 'main' of https://github.com/ManuFernandez03/repo-tests [`c8b2bf5`](https://github.com/ManuFernandez03/repo-tests/commit/c8b2bf5)
 - Update catalog-info.yaml [`8cd6325`](https://github.com/ManuFernandez03/repo-tests/commit/8cd6325)
 - cambio del changelog [`d694581`](https://github.com/ManuFernandez03/repo-tests/commit/d694581)
 - Update CHANGELOG2.md [`9d061ed`](https://github.com/ManuFernandez03/repo-tests/commit/9d061ed)
