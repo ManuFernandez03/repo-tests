@@ -8,6 +8,6 @@ metadata:
     
 spec:
   type: service
-  owner: ManuFernandez03
+  owner: admins
   system: system1
   lifecycle: experimental

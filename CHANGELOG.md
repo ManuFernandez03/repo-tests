@@ -14,11 +14,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - cambio nombre changelog [`a5437a7`](https://github.com/ManuFernandez03/repo-tests/commit/a5437a7)
 
 ### Documentation
+- :robot: changelog file generated [`7222cb0`](https://github.com/ManuFernandez03/repo-tests/commit/7222cb0)
+- :robot: changelog file generated [`f58f769`](https://github.com/ManuFernandez03/repo-tests/commit/f58f769)
 - :robot: changelog file generated [`ee7a0ea`](https://github.com/ManuFernandez03/repo-tests/commit/ee7a0ea)
 - :robot: changelog file generated [`0a3f10b`](https://github.com/ManuFernandez03/repo-tests/commit/0a3f10b)
 - :robot: changelog file generated [`61504a8`](https://github.com/ManuFernandez03/repo-tests/commit/61504a8)
 
 ### Other
+- Update catalog-info.yaml [`8cd6325`](https://github.com/ManuFernandez03/repo-tests/commit/8cd6325)
+- cambio del changelog [`d694581`](https://github.com/ManuFernandez03/repo-tests/commit/d694581)
 - Update CHANGELOG2.md [`9d061ed`](https://github.com/ManuFernandez03/repo-tests/commit/9d061ed)
 - Merge branch 'main' of https://github.com/ManuFernandez03/repo-tests [`3d5dbc2`](https://github.com/ManuFernandez03/repo-tests/commit/3d5dbc2)
 - Merge branch 'main' of https://github.com/ManuFernandez03/repo-tests [`dcea911`](https://github.com/ManuFernandez03/repo-tests/commit/dcea911)
