@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - cambio nombre changelog [`a5437a7`](https://github.com/ManuFernandez03/repo-tests/commit/a5437a7)
 
 ### Documentation
+- :robot: changelog file generated [`357641f`](https://github.com/ManuFernandez03/repo-tests/commit/357641f)
 - :robot: changelog file generated [`7955944`](https://github.com/ManuFernandez03/repo-tests/commit/7955944)
 - :robot: changelog file generated [`5b4f63b`](https://github.com/ManuFernandez03/repo-tests/commit/5b4f63b)
 - :robot: changelog file generated [`7222cb0`](https://github.com/ManuFernandez03/repo-tests/commit/7222cb0)
@@ -25,6 +26,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - :robot: changelog file generated [`61504a8`](https://github.com/ManuFernandez03/repo-tests/commit/61504a8)
 
 ### Other
+- Merge pull request #12 from ManuFernandez03/create-proyecto-bazel-2 [`7db0a01`](https://github.com/ManuFernandez03/repo-tests/commit/7db0a01)
+- Merge pull request #11 from ManuFernandez03/create-proyecto-bazel-1 [`2da54fc`](https://github.com/ManuFernandez03/repo-tests/commit/2da54fc)
+- segundo commit [`49a0174`](https://github.com/ManuFernandez03/repo-tests/commit/49a0174)
+- primer commit [`41d79ab`](https://github.com/ManuFernandez03/repo-tests/commit/41d79ab)
 - Merge pull request #10 from ManuFernandez03/create-proyecto-test-1 [`78369a4`](https://github.com/ManuFernandez03/repo-tests/commit/78369a4)
 - Merge branch 'main' of https://github.com/ManuFernandez03/repo-tests [`c8b2bf5`](https://github.com/ManuFernandez03/repo-tests/commit/c8b2bf5)
 - Update catalog-info.yaml [`8cd6325`](https://github.com/ManuFernandez03/repo-tests/commit/8cd6325)
