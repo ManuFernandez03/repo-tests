@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - cambio nombre changelog [`a5437a7`](https://github.com/ManuFernandez03/repo-tests/commit/a5437a7)
 
 ### Documentation
+- :robot: changelog file generated [`fae0a08`](https://github.com/ManuFernandez03/repo-tests/commit/fae0a08)
 - :robot: changelog file generated [`357641f`](https://github.com/ManuFernandez03/repo-tests/commit/357641f)
 - :robot: changelog file generated [`7955944`](https://github.com/ManuFernandez03/repo-tests/commit/7955944)
 - :robot: changelog file generated [`5b4f63b`](https://github.com/ManuFernandez03/repo-tests/commit/5b4f63b)
@@ -26,6 +27,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - :robot: changelog file generated [`61504a8`](https://github.com/ManuFernandez03/repo-tests/commit/61504a8)
 
 ### Other
+- Merge pull request #15 from ManuFernandez03/create-microservicio-prueba-3 [`32e9d6c`](https://github.com/ManuFernandez03/repo-tests/commit/32e9d6c)
+- Merge pull request #14 from ManuFernandez03/create-microservicio-prueba-2 [`a2b734f`](https://github.com/ManuFernandez03/repo-tests/commit/a2b734f)
+- Merge pull request #13 from ManuFernandez03/create-microservicio-prueba-1 [`e9787dc`](https://github.com/ManuFernandez03/repo-tests/commit/e9787dc)
+- nuevo microservicio [`bf5224c`](https://github.com/ManuFernandez03/repo-tests/commit/bf5224c)
+- nuevo microservicio [`48b0ac7`](https://github.com/ManuFernandez03/repo-tests/commit/48b0ac7)
+- nuevo microservicio [`d9d2f65`](https://github.com/ManuFernandez03/repo-tests/commit/d9d2f65)
 - Merge pull request #12 from ManuFernandez03/create-proyecto-bazel-2 [`7db0a01`](https://github.com/ManuFernandez03/repo-tests/commit/7db0a01)
 - Merge pull request #11 from ManuFernandez03/create-proyecto-bazel-1 [`2da54fc`](https://github.com/ManuFernandez03/repo-tests/commit/2da54fc)
 - segundo commit [`49a0174`](https://github.com/ManuFernandez03/repo-tests/commit/49a0174)
