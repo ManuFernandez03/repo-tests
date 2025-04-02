@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "proyecto-bazel-2"
+  description: "este es un proyecto de bazel con java"
+  # annotations:
+  #   backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: "group:default/admins"
+  system: "system:default/system1"
+  lifecycle: experimental
