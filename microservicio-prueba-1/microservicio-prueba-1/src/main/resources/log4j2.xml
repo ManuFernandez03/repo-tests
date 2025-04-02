@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info" packages="com.masmovil.commons.logger2.logj4" name="log4j-custom-layout">
+  <Appenders>
+    <Console name="console" immediateFlush="false" bufferSize="5621449">
+      <cloudJsonLayout/>
+    </Console>
+
+    <Async name="Async">
+      <AppenderRef ref="console"/>
+    </Async>
+  </Appenders>
+
+  <Loggers>
+    <Root level="info">
+      <AppenderRef ref="Async"/>
+    </Root>
+    <Logger name="com.mm.dominio" level="info" additivity="false">
+      <AppenderRef ref="Async"/>
+    </Logger>
+  </Loggers>
+
+</Configuration>
