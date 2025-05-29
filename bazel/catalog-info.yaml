@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: proyecto-bazel-1
   description: "este es un proyecto de bazel con java"
-  # annotations:
+  annotations:
+    changelog-file-ref: "url:https://github.com/ManuFernandez03/repo-tests/blob/main/bazel/CHANGELOG.md"
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: service
