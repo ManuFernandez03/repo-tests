@@ -4,6 +4,7 @@ metadata:
   name: proyecto-bazel-1
   description: "este es un proyecto de bazel con java"
   annotations:
+    backstage.io/source-location: "file:/github.com/ManuFernandez03/repo-tests/blob/main/bazel/"
     changelog-file-ref: "url:https://github.com/ManuFernandez03/repo-tests/blob/main/bazel/CHANGELOG.md"
   #   backstage.io/techdocs-ref: dir:.
 spec:
