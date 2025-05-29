@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## Unreleased changes
 
 ### Feature
+- cambio cosas [`0a09153`](https://github.com/ManuFernandez03/repo-tests/commit/0a09153)
 - primer cambio despues de nueva release [`cd7abbf`](https://github.com/ManuFernandez03/repo-tests/commit/cd7abbf)
 
 ### Bug Fixes
@@ -16,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - cambio nombre changelog [`a5437a7`](https://github.com/ManuFernandez03/repo-tests/commit/a5437a7)
 
 ### Documentation
+- :robot: changelog file generated [`4c4b5df`](https://github.com/ManuFernandez03/repo-tests/commit/4c4b5df)
 - :robot: changelog file generated [`fae0a08`](https://github.com/ManuFernandez03/repo-tests/commit/fae0a08)
 - :robot: changelog file generated [`357641f`](https://github.com/ManuFernandez03/repo-tests/commit/357641f)
 - :robot: changelog file generated [`7955944`](https://github.com/ManuFernandez03/repo-tests/commit/7955944)
