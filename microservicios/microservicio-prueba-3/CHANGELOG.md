@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Feature
 - primer cambio despues de nueva release [`cd7abbf`](https://github.com/ManuFernandez03/repo-tests/commit/cd7abbf)
+- esta linea esta metida a mano [`cd7abbf`](https://github.com/ManuFernandez03/repo-tests/commit/cd7abbf)
 
 ### Bug Fixes
 - prueba pr [`73bdab0`](https://github.com/ManuFernandez03/repo-tests/commit/73bdab0)

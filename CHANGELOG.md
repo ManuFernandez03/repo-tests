@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## Unreleased changes
 
 ### Feature
+- cambio cosas [`0a09153`](https://github.com/ManuFernandez03/repo-tests/commit/0a09153)
 - primer cambio despues de nueva release [`cd7abbf`](https://github.com/ManuFernandez03/repo-tests/commit/cd7abbf)
 
 ### Bug Fixes
@@ -16,6 +17,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - cambio nombre changelog [`a5437a7`](https://github.com/ManuFernandez03/repo-tests/commit/a5437a7)
 
 ### Documentation
+- :robot: changelog file generated [`3686fbd`](https://github.com/ManuFernandez03/repo-tests/commit/3686fbd)
+- :robot: changelog file generated [`a6312d2`](https://github.com/ManuFernandez03/repo-tests/commit/a6312d2)
+- :robot: changelog file generated [`c1ba6cd`](https://github.com/ManuFernandez03/repo-tests/commit/c1ba6cd)
+- :robot: changelog file generated [`9b5d26c`](https://github.com/ManuFernandez03/repo-tests/commit/9b5d26c)
+- :robot: changelog file generated [`51a10a5`](https://github.com/ManuFernandez03/repo-tests/commit/51a10a5)
+- :robot: changelog file generated [`5deb3b7`](https://github.com/ManuFernandez03/repo-tests/commit/5deb3b7)
+- :robot: changelog file generated [`4c4b5df`](https://github.com/ManuFernandez03/repo-tests/commit/4c4b5df)
 - :robot: changelog file generated [`fae0a08`](https://github.com/ManuFernandez03/repo-tests/commit/fae0a08)
 - :robot: changelog file generated [`357641f`](https://github.com/ManuFernandez03/repo-tests/commit/357641f)
 - :robot: changelog file generated [`7955944`](https://github.com/ManuFernandez03/repo-tests/commit/7955944)
@@ -27,6 +35,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - :robot: changelog file generated [`61504a8`](https://github.com/ManuFernandez03/repo-tests/commit/61504a8)
 
 ### Other
+- Update catalog-info.yaml [`c32374c`](https://github.com/ManuFernandez03/repo-tests/commit/c32374c)
+- Update catalog-info.yaml [`0e36c1e`](https://github.com/ManuFernandez03/repo-tests/commit/0e36c1e)
+- Update catalog-info.yaml [`8b9de6a`](https://github.com/ManuFernandez03/repo-tests/commit/8b9de6a)
+- Update catalog-info.yaml [`4f6ba82`](https://github.com/ManuFernandez03/repo-tests/commit/4f6ba82)
+- Update catalog-info.yaml [`04a4fa0`](https://github.com/ManuFernandez03/repo-tests/commit/04a4fa0)
+- Update CHANGELOG.md [`0e7df0a`](https://github.com/ManuFernandez03/repo-tests/commit/0e7df0a)
 - Merge pull request #15 from ManuFernandez03/create-microservicio-prueba-3 [`32e9d6c`](https://github.com/ManuFernandez03/repo-tests/commit/32e9d6c)
 - Merge pull request #14 from ManuFernandez03/create-microservicio-prueba-2 [`a2b734f`](https://github.com/ManuFernandez03/repo-tests/commit/a2b734f)
 - Merge pull request #13 from ManuFernandez03/create-microservicio-prueba-1 [`e9787dc`](https://github.com/ManuFernandez03/repo-tests/commit/e9787dc)
