@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: repo-tests
+  description: mi repo para tests y cosas
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    
+spec:
+  type: service
+  owner: admins
+  system: system1
+  lifecycle: experimental
