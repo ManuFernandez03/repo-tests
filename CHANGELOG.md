@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - cambio nombre changelog [`a5437a7`](https://github.com/ManuFernandez03/repo-tests/commit/a5437a7)
 
 ### Documentation
+- :robot: changelog file generated [`3686fbd`](https://github.com/ManuFernandez03/repo-tests/commit/3686fbd)
 - :robot: changelog file generated [`a6312d2`](https://github.com/ManuFernandez03/repo-tests/commit/a6312d2)
 - :robot: changelog file generated [`c1ba6cd`](https://github.com/ManuFernandez03/repo-tests/commit/c1ba6cd)
 - :robot: changelog file generated [`9b5d26c`](https://github.com/ManuFernandez03/repo-tests/commit/9b5d26c)
@@ -34,6 +35,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - :robot: changelog file generated [`61504a8`](https://github.com/ManuFernandez03/repo-tests/commit/61504a8)
 
 ### Other
+- Update catalog-info.yaml [`c32374c`](https://github.com/ManuFernandez03/repo-tests/commit/c32374c)
 - Update catalog-info.yaml [`0e36c1e`](https://github.com/ManuFernandez03/repo-tests/commit/0e36c1e)
 - Update catalog-info.yaml [`8b9de6a`](https://github.com/ManuFernandez03/repo-tests/commit/8b9de6a)
 - Update catalog-info.yaml [`4f6ba82`](https://github.com/ManuFernandez03/repo-tests/commit/4f6ba82)
